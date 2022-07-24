@@ -1,0 +1,10 @@
+{
+  "name": "Postman Project Template Generator",
+  "id": "987091710178953302",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": [
+    "figma"
+  ]
+}
