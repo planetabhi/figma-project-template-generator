@@ -1,7 +1,5 @@
 # Figma Project Template Generator
-
-## Why?
-This plugin aims to improve consistency across the teams/projects by generating starting page templates.
+Automate starting page templates in Figma.
 
 ## Development
 - Run `yarn` to install dependencies.
