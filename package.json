@@ -1,7 +1,7 @@
 {
-	"name": "postman-project-template-generator",
+	"name": "figma-project-template-generator",
 	"version": "1.1.0",
-	"description": "This plugin aims to improve consistency across the squad by generating a starting page structure and templates to work from.",
+	"description": "This plugin aims to improve consistency across the teams/projects by generating starting page templates.",
 	"license": "ISC",
 	"author": {
 		"name": "Abhimanyu Rana"
